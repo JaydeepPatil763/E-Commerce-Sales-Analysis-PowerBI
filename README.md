@@ -60,6 +60,6 @@ interactive visualizations.
 - How do different product categories and customer age groups perform?
 - What proportion of orders are cancelled or delivered?
 
-  # Dashboard Preview
+ ## Dashboard Preview
 
-![E-Commerce Sales Dashboard](images/dashboard.png)
+![E-Commerce Sales Dashboard](DashBoard%20Image.png)
